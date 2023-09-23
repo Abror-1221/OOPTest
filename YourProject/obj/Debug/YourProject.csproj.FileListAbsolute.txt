@@ -1,0 +1,10 @@
+C:\Users\MSI\Desktop\Tech\C#\OOP Test\YourProject\YourProject\obj\Debug\YourProject.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Tech\C#\OOP Test\YourProject\YourProject\bin\Debug\YourProject.dll.config
+C:\Users\MSI\Desktop\Tech\C#\OOP Test\YourProject\YourProject\bin\Debug\YourProject.dll
+C:\Users\MSI\Desktop\Tech\C#\OOP Test\YourProject\YourProject\bin\Debug\YourProject.pdb
+C:\Users\MSI\Desktop\Tech\C#\OOP Test\YourProject\YourProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\Tech\C#\OOP Test\YourProject\YourProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\Tech\C#\OOP Test\YourProject\YourProject\obj\Debug\YourProject.csproj.CopyComplete
+C:\Users\MSI\Desktop\Tech\C#\OOP Test\YourProject\YourProject\obj\Debug\YourProject.dll
+C:\Users\MSI\Desktop\Tech\C#\OOP Test\YourProject\YourProject\obj\Debug\YourProject.pdb
+C:\Users\MSI\Desktop\Tech\C#\OOP Test\YourProject\YourProject\obj\Debug\YourProject.csproj.AssemblyReference.cache
